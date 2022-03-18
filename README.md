@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Rohith Pala
-- 👀 I’m interested in Programming & AI
-- 🌱 I’m currently pursuing B.Tech 3rd Year at Vasavi College of Engineering
-- 💞️ I’m in love with Artificial Intelligence
-- LinkedIN Profile URL: www.linkedin.com/in/rohithpala
+Hi, I’m Rohith Pala, an Artificial Intelligence Enthusiast, a Web Developer & a Programmer
+I’m currently pursuing B.Tech 3rd Year at Vasavi College of Engineering
+LinkedIn Profile URL: www.linkedin.com/in/rohithpala
+  
