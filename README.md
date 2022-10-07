@@ -4,5 +4,4 @@ I’m currently pursuing B.E 4th Year at Vasavi College of Engineering <br> <br>
 
 LinkedIn Profile URL: www.linkedin.com/in/rohithpala <br>
 
-
-![](https://github.com/rohithpala/github-stats/blob/master/generated/languages.svg)
+![](https://komarev.com/ghpvc/?username=rohithpala&label=Profile%20views&color=0e75b6&style=flat)
