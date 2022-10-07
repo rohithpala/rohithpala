@@ -3,4 +3,3 @@ an <code>Artificial Intelligence Enthusiast</code>, a <code>Web Developer</code>
 I’m currently pursuing B.E 4th Year at Vasavi College of Engineering <br> <br>
 
 LinkedIn Profile URL: www.linkedin.com/in/rohithpala <br>
-![alt text]("Artificial Intelligence")
