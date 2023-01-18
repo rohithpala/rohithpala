@@ -65,8 +65,4 @@
    </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohithpala&show_icons=true&locale=en&layout=compact" alt="rohithpala" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohithpala&show_icons=true&locale=en" alt="rohithpala" /></p>
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rohithpala&theme=dark&show_icons=true&count_private=true)
