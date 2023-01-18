@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rohith Pala</h1>
+<h1 align="center">Hi 👋, I'm Rohith Pala </h1>
 <h3 align="center">I am an Artificial Intelligence Enthusiast, a Web Developer and a Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithpala&label=Profile%20views&color=0e75b6&style=flat" alt="rohithpala" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rohithpala&label=Profile%20views&color=0e75b6&style=flat" alt="rohithpala" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohithpala" alt="rohithpala" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohithpala" alt="rohithpala" /></a> </p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -65,4 +65,4 @@
    </a>
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rohithpala&theme=dark&show_icons=true&count_private=true)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rohithpala&theme=dark&show_icons=true&count_private=true" /> </p>
