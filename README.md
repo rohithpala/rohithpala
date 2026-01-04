@@ -1,7 +1,14 @@
-<h1 align="center">Hi 👋, I'm Rohith Pala </h1>
-<h3 align="center">I am an Artificial Intelligence Enthusiast, a Web Developer and a Programmer</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=650&lines=I+am+Rohith+Pala+👋;I+am+a+Developer+🤵;I+love+Programming+💻;I+am+an+AI+Enthusiast+🤖" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rohithpala&label=Profile%20views&color=0e75b6&style=flat" alt="rohithpala" /> </p>
+
+<br>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithpala&theme=radical" alt="Rohith's Summary" />
