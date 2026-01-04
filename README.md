@@ -3,7 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rohithpala&label=Profile%20views&color=0e75b6&style=flat" alt="rohithpala" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohithpala" alt="rohithpala" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithpala&theme=radical" alt="Rohith's Summary" />
+</p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
